@@ -11,7 +11,7 @@
 方法
 1.LINE Massaging API部分：   
   1.1.申請LINE Massaging API  
-  1.2.搭建網頁：將web/index.php設為調控LINE Massaging API頁面   
+  1.2.搭建網頁：將Web/index.php設為調控LINE Massaging API頁面   
   
 2.NodeMCU開發板設定部分：   
   2.1.打開Arduino IDE選擇檔案->偏好設定   
