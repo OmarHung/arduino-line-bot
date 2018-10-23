@@ -15,7 +15,7 @@
   
 2.NodeMCU開發板設定部分：   
   2.1.打開Arduino IDE選擇檔案->偏好設定   
-  2.2.在「額外的開發板管理員網址」輸入http://arduino.esp8266.com/stable/package_esp8266com_index.json，並按下確定   
+  2.2.在「額外的開發板管理員網址」輸入http://arduino.esp8266.com/stable/package_esp8266com_index.json ，並按下確定   
   2.3.Arduino IDE選擇工具->開發版：你的板子型號->開發板管理員...  
   2.4.搜尋「esp8266」，選擇「ESP8266 Community」安裝   
   2.5.Arduino IDE選擇工具->開發版：你的板子型號，選擇「NodeMCU 1.0 (ESP-12E Module)」  
